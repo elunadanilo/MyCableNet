@@ -42,8 +42,8 @@ El proyecto sigue la arquitectura **Clean Architecture**, estructurada en los si
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/CableNet.git
-cd CableNet
+git clone https://github.com/elunadanilo/MyCableNet.git
+cd MyCableNet
 ```
 
 ### 2. Configurar la cadena de conexión
