@@ -54,7 +54,7 @@ Edita el archivo `MyCableNet.API/appsettings.json` y modifica la cadena `"Defaul
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=CableNetDB;Trusted_Connection=True;TrustServerCertificate=True"
+  "DefaultConnection": "Server=localhost;Database=MyCableNetDb;Trusted_Connection=True;TrustServerCertificate=True"
 }
 ```
 
@@ -62,7 +62,7 @@ Edita el archivo `MyCableNet.API/appsettings.json` y modifica la cadena `"Defaul
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=CableNetDB;User Id=sa;Password=TuClaveSegura123;"
+  "DefaultConnection": "Server=localhost;Database=MyCableNetDb;User Id=sa;Password=TuClaveSegura123;"
 }
 ```
 
