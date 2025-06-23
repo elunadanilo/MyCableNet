@@ -106,6 +106,27 @@ Para publicar:
 ```bash
 dotnet publish -c Release -o ./publish
 ```
+## Otros Archivos
+
+Dentro del repositorio encontrarás una carpeta adicional llamada **`otros_archivos`**, la cual contiene recursos complementarios utilizados durante el desarrollo y entrega de esta prueba técnica. Esta carpeta incluye:
+
+- 🗃 **Procedimientos Almacenados**: 
+  - `SP_ObtenerClientesMorosos`
+  - `SP_ObtenerIngresosMensuales`
+  
+- 📊 **Reportes Power BI**:
+  - `ClientesMorosos.pbix`
+  - `ReporteIngresosMes.pbix`
+
+- 🧾 **Consultas SQL**:
+  - `Top10ClientesPesoBruto2014.sql`
+  - `ConteoTransaccionesMensuales2015.sql`
+
+- 📄 **Documento General**:
+  - `ASSESSMENT.docx`: Documento que describe toda la solución, incluyendo arquitectura, diagramas UML, entidad-relación, pruebas realizadas, scripts y explicaciones técnicas.
+
+Esta carpeta permite visualizar de forma rápida y organizada la información crítica del proyecto, útil tanto para evaluación como para futuras referencias técnicas.
+
 
 ## ❓ Preguntas frecuentes
 
